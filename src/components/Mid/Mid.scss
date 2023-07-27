@@ -1,0 +1,41 @@
+.mid {
+    width: 35%;
+    min-height: 825px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.education {
+    padding: 20px;
+    span {
+        font-size: 24px;
+    }
+
+    li {
+        font-size: 18px;
+    }
+}
+
+.exp {
+    padding: 20px;
+    span {
+        font-size: 24px;
+    }
+
+    li {
+        font-size: 18px;
+    }
+}
+
+.skill {
+    padding: 20px;
+    span {
+        font-size: 24px;
+    }
+
+    li {
+        font-size: 18px;
+    }
+}
